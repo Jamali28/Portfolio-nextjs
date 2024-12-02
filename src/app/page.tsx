@@ -2,7 +2,8 @@ import style from "../styles/page.module.css";
 import Image from "next/image";
 export default function Home() {
   return (
-     
+  
+
         <div className="resume-container">
 
       <div className="left-section">
@@ -21,6 +22,13 @@ export default function Home() {
         <p style={{ textAlign: 'justify', hyphens: 'auto' }}> <b> Artificial Intelligence, Web 3.0 & Metaverse</b> from Governor House, Karachi (ongoing)</p>
 
       
+        <div className="dec">
+          <a href="/about">About Me</a>
+          <a href="contact">Contact Me</a>
+
+        </div>
+      
+
     </div>
     <div className="right-section">
     <div style={{ textDecoration: 'underline' }}>
@@ -66,6 +74,6 @@ export default function Home() {
       </div>
 
         </div>
-      
+
   );
 }
