@@ -37,18 +37,16 @@ export default function Home() {
         <section id="personal-info">
           <h3>Personal Information</h3>
           <p><b>Name: </b> Muheeb Ali Jamali</p>
-          <p><b>Phone: </b> 0092xxxxxxx</p>
-          <p><b>Email: </b> <a href="mailto:abc@gmail.com">abc@gmail.com</a></p>
-          <p><b>LinkedIn: </b> <a href="https://au.linkedin.com/in/" target="_blank">https://www.linkedin.com/</a></p>
+          <p><b>Phone: </b> 03232155972</p>
+          <p><b>Email: </b> <a href="mailto:muheebalijamali28@gmail.com">muheebalijamali28@gmail.com</a></p>
+          <p><b>LinkedIn: </b> <a href="https://www.linkedin.com/in/muheeb-jamali-2752a62b6/" target="_blank">https://www.linkedin.com/in/muheeb-jamali-2752a62b6/</a></p>
 
         </section>
 
         <section id="Education">
-          <h3>Education</h3>
-          <p><b>Masters: </b> In ABC from XYZ University Karachi (2007-2009)</p>
-          <p><b>Bachelors: </b> In ABC from XYZ University Karachi(2002-2007)</p>
-          <p><b>Intermediate: </b> In Pre Engineering from Intermediate Karachi Board (2000-2002)</p>
-          <p><b>Matriculaton: </b> In Science from Matric Karachi Board (1998-2000)</p>
+       
+          <p><b>Intermediate: </b> In Pre Medical from Intermediate Karachi Board (2023-2025)</p>
+          <p><b>Matriculaton: </b> In Science from Matric Karachi Board (2021-2023)</p>
         </section>
 
         <section id="skills">
@@ -66,9 +64,17 @@ export default function Home() {
 
         <section id="Work Experience">
           <h3>Work Experience</h3>
-          <p><b>Company: </b> ABC Organization</p>
-          <p><b>Role: </b> Started working as Assistant Manager and now working as Senior Manager (2004-2024)</p>
-          <p><b>Previous Experience: </b> XYZ Organization (2001-2002)</p>
+          <p>
+
+          Although I currently have no professional work experience, 
+          I am eager to bring my strong foundational knowledge, dedication, and passion for development to the industry.
+           I have spent significant time honing my skills through personal projects, online courses,
+            and self-driven learning. This has given me a solid understanding of coding, problem-solving, and teamwork.
+             I am highly motivated to grow and learn from experienced professionals while contributing fresh ideas and enthusiasm to any team I join.
+           My adaptability, commitment, and curiosity make me ready to take on challenges and excel in a professional setting.
+
+
+          </p>
         </section>
 
       </div>
